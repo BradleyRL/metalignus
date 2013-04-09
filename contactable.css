@@ -1,0 +1,136 @@
+#contactable #contactable_inner {
+	background-image:url(images/contact.png);
+	color:#ccc
+	background-color:#333;
+	cursor:pointer;
+	height:102px;
+	left:0;
+	margin-left:-5px; 
+	*margin-left:-5px; 
+	overflow:hidden;
+	position:fixed;
+	*position:absolute;
+	text-indent:-100000px;
+	top:102px;
+	*margin-top:10px;
+	width:44px;
+	z-index:100000;
+}
+
+#contactable #contactForm {
+	background:url(images/background.jpg) repeat-x #000;
+
+	border:2px solid #333;
+	color:#ccc;
+	height:450px;
+	left:0;
+	margin-left:-400px;
+	*margin-left:-434px;
+	margin-top:-160px;
+	overflow:hidden;
+	padding-left:25px;
+	position:fixed;
+	top:200px;
+	width:360px;
+	*width:394px;
+	z-index:99;
+}
+
+
+#contactable form#contactForm input { 
+	width:325px;
+	border:1px solid #333;
+	font:12px Arial, Tahoma, Verdana;
+	padding:5px;
+	background:#222;
+	margin-bottom:10px;
+	color:#bbb;
+	display:block;
+}
+
+
+#contactable form#contactForm textarea {
+	border:1px solid #333;
+	background:#222;
+	font:12px Arial, Tahoma, Verdana;
+	padding:5px;
+	color:#bbb;
+	width:325px;
+	height:150px;
+}
+
+#contactable form#contactForm .submit {
+	font:11px Arial, Tahoma, Verdana;
+	padding:7px 0 7px 0;
+	text-align:center;
+	background:url(images/buttons.jpg) no-repeat;
+	text-transform:uppercase;
+	margin-top:5px;
+	width:83px;
+	color:#77B6CD;
+	border:none;
+	cursor:pointer;
+}
+
+#contactable form#contactForm .submit:hover {
+background:url(images/buttons.jpg) 0 -30px no-repeat;
+}
+
+#contactable form#contactForm p {
+	width:325px;
+	font-size:0.9em;
+}
+
+#contactable form#contactForm .disclaimer {
+	*margin-left:20px;
+}
+
+#contactable #contactForm .red {
+	color:	#F5410F;
+}
+
+#contactable #overlay {
+	background-color:#666666;
+	display:none;
+	height:100%;
+	left:0;
+	margin:0;
+	padding:0;
+	position:absolute;
+	top:0;
+	width:100%;
+	z-index:0;
+} 
+#contactable .error { background-color: #EDBE9C; }
+
+#contactable #name.error { background-color: #EDBE9C; } 
+#contactable #email.error { background-color: #EDBE9C; }
+#contactable #comment.error { background-color: #EDBE9C; }
+
+#contactable form#contactForm label{
+	*margin-left:20px;
+}
+
+#contactable form#contactForm #loading {
+	background: url(images/ajax-loader.gif) no-repeat;
+	width:55px;
+	height:55px;
+	margin: 100px auto;
+	display:none;
+}
+
+#contactable #callback {
+	font-family: georgia;
+	font-size:1.1em;
+	color: #FFF;
+	width:325px;
+	margin: 100px auto;	
+	display:none;
+}
+
+
+#contactable .holder {
+	margin:0 auto;
+	*margin-left:20px;
+	padding-top:20px;	
+}	
