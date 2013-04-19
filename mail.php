@@ -16,6 +16,5 @@
 		
 		//send the email 
 		mail('admin@metalignus.com', $subject, $contactMessage, "From: $emailAddr");
-//                mail( "$youremail", "Metalignus Contact Form", $result, "From: $email" );
 		echo('success'); //return success callback
 ?>
