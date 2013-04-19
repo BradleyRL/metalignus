@@ -1,6 +1,6 @@
 body 
 {
-	background:url(images/background.jpg) repeat-x #000;
+	background:url(../images/background.jpg) repeat-x #000;
 	margin:0;
 	padding:0;
 	font:12px Arial, Tahoma, Verdana;
@@ -53,7 +53,7 @@ img
 }
 blockquote 
 {
-	background:url(images/blockquote.gif) no-repeat top left;
+	background:url(../images/blockquote.gif) no-repeat top left;
 	padding:10px 0 0 40px;
 	font-style:italic;
 }
@@ -95,7 +95,7 @@ blockquote
 }
 .ie6 #navigation a.selected 
 {
-	background:url(images/nav-buttons.jpg) 0 -101px repeat-x;
+	background:url(../images/nav-buttons.jpg) 0 -101px repeat-x;
 	border-right:1px solid #050505;
 	border-left:1px solid #050505;
 	border-bottom:1px solid #0d0d0d;
@@ -108,7 +108,7 @@ blockquote
 }
 .ie6 #featured-tabs li a 
 {
-	background:url(images/featured-dots.png) 0 -8px no-repeat;
+	background:url(../images/featured-dots.png) 0 -8px no-repeat;
 }
 .ie7 #main
 {
@@ -163,7 +163,7 @@ blockquote
 	height:49px;
 	padding-top:2px;
 	border-bottom:1px solid #050505;
-	background:url(images/navigation.jpg) no-repeat;
+	background:url(../images/navigation.jpg) no-repeat;
 }
 #navigation ul 
 {
@@ -183,11 +183,11 @@ blockquote
 }
 #navigation a:hover 
 {
-	background:url(images/nav-buttons.jpg) 0 -51px repeat-x;
+	background:url(../images/nav-buttons.jpg) 0 -51px repeat-x;
 }
 #navigation a.selected 
 {
-	background:url(images/nav-buttons.jpg) 0 -101px repeat-x;
+	background:url(../images/nav-buttons.jpg) 0 -101px repeat-x;
 	border-right:1px solid #050505;
 	border-left:1px solid #050505;
 	border-bottom:1px solid #0d0d0d;
@@ -248,7 +248,7 @@ blockquote
 }
 #archive-rss a 
 {
-	background:url(images/buttons.jpg) no-repeat;
+	background:url(../images/buttons.jpg) no-repeat;
 	display:block;
 	width:83px;
 	text-align:center;
@@ -261,7 +261,7 @@ blockquote
 }
 #archive-rss a:hover 
 {
-	background:url(images/buttons.jpg) 0 -30px no-repeat;
+	background:url(../images/buttons.jpg) 0 -30px no-repeat;
 }
 .right-box 
 {
@@ -269,7 +269,7 @@ blockquote
 }
 .right-box h3
 {
-	background:url(images/title-short.jpg) no-repeat;
+	background:url(../images/title-short.jpg) no-repeat;
 	width:200px;
 	padding:8px 0 7px 33px;
 	font:12px Arial, Tahoma, Verdana;
@@ -278,7 +278,7 @@ blockquote
 }
 .right-box ul 
 {
-	background:url(images/rounded-small.jpg) bottom left no-repeat #141414;
+	background:url(../images/rounded-small.jpg) bottom left no-repeat #141414;
 	list-style:none;
 	padding:10px;
 }
@@ -329,12 +329,12 @@ blockquote
 }
 .left-box 
 {
-	background:url(images/rounded-big.jpg) bottom left no-repeat #141414;
+	background:url(../images/rounded-big.jpg) bottom left no-repeat #141414;
 	margin-bottom:20px;
 }
 .left-box h2 /*this is box's title*/ 
 {
-	background:url(images/title-long.jpg) no-repeat;
+	background:url(../images/title-long.jpg) no-repeat;
 	width:507px;
 	padding:8px 0 7px 33px;
 	font:12px Arial, Tahoma, Verdana;
@@ -398,7 +398,7 @@ blockquote
 	width:540px;
 	padding:11px 0 13px 15px;
 	position:absolute;
-	background:url(images/featured-description.png) no-repeat;
+	background:url(../images/featured-description.png) no-repeat;
 	color:#fff;
 	margin-top:-39px;
 }
@@ -412,7 +412,7 @@ blockquote
 {
 	display:block;
 	text-indent:-9999pt;
-	background:url(images/featured-dots.png) no-repeat;
+	background:url(../images/featured-dots.png) no-repeat;
 	width:8px;
 	height:8px;
 	float:left;
@@ -420,7 +420,7 @@ blockquote
 }
 #featured-tabs a:hover, .activeSlide 
 {
-	background:url(images/featured-dots.png) 0 -8px no-repeat !important;
+	background:url(../images/featured-dots.png) 0 -8px no-repeat !important;
 }
 
 /* -- [ columns (in the index.html inside left-box) ] ------------------------ */
@@ -488,7 +488,7 @@ blockquote
 	font:11px Arial, Tahoma, Verdana;
 	padding:7px 0 7px 0;
 	text-align:center;
-	background:url(images/buttons.jpg) no-repeat;
+	background:url(../images/buttons.jpg) no-repeat;
 	text-transform:uppercase;
 	margin-top:5px;
 	width:83px;
@@ -498,7 +498,7 @@ blockquote
 }
 #contactform .send:hover 
 {
-	background:url(images/buttons.jpg) 0 -30px no-repeat;
+	background:url(../images/buttons.jpg) 0 -30px no-repeat;
 }
 #contactform .send:focus 
 {
@@ -512,7 +512,7 @@ blockquote
 	width:760px;
 	height:20px;
 	padding:15px 20px 10px 20px;
-	background:url(images/footer.jpg) no-repeat;
+	background:url(../images/footer.jpg) no-repeat;
 	margin-left:1px;
 	margin-bottom:30px !important;
 }

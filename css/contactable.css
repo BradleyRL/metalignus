@@ -1,5 +1,5 @@
 #contactable #contactable_inner {
-	background-image:url(images/contact.png);
+	background-image:url(../images/contact.png);
 	color:#ccc
 	background-color:#333;
 	cursor:pointer;
@@ -18,7 +18,7 @@
 }
 
 #contactable #contactForm {
-	background:url(images/background.jpg) repeat-x #000;
+	background:url(../images/background.jpg) repeat-x #000;
 
 	border:2px solid #333;
 	color:#ccc;
@@ -63,7 +63,7 @@
 	font:11px Arial, Tahoma, Verdana;
 	padding:7px 0 7px 0;
 	text-align:center;
-	background:url(images/buttons.jpg) no-repeat;
+	background:url(../images/buttons.jpg) no-repeat;
 	text-transform:uppercase;
 	margin-top:5px;
 	width:83px;
@@ -73,7 +73,7 @@
 }
 
 #contactable form#contactForm .submit:hover {
-background:url(images/buttons.jpg) 0 -30px no-repeat;
+background:url(../images/buttons.jpg) 0 -30px no-repeat;
 }
 
 #contactable form#contactForm p {
@@ -112,7 +112,7 @@ background:url(images/buttons.jpg) 0 -30px no-repeat;
 }
 
 #contactable form#contactForm #loading {
-	background: url(images/ajax-loader.gif) no-repeat;
+	background: url(../images/ajax-loader.gif) no-repeat;
 	width:55px;
 	height:55px;
 	margin: 100px auto;
