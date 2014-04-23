@@ -16,7 +16,7 @@
 	$.fn.contactable = function(options) {
 		//set default options  
 		var defaults = {
-			url: 'http://metalignus.com/mail.php',
+			url: 'mail.php',
 			name: 'Name',
 			email: 'Email',
 			message : 'Message',
