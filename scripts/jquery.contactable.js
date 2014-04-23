@@ -16,7 +16,7 @@
 	$.fn.contactable = function(options) {
 		//set default options  
 		var defaults = {
-			url: 'mail.php',
+			url: 'http://metalignus-10.appspot.com/mail.php',
 			name: 'Name',
 			email: 'Email',
 			message : 'Message',
