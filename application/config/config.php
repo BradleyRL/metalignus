@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://metalignus-10.appspot.com';
+$config['base_url']	= 'http://www.metalignus.com';
 
 /*
 |--------------------------------------------------------------------------
