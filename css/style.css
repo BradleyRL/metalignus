@@ -2,9 +2,8 @@ body
 {
 	background:url(../images/background.jpg) repeat-x #000;
 	margin:0;
-	padding:0;	
-	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 12px;
+	padding:0;
+	font:12px Arial, Tahoma, Verdana;
 	line-height:18px;
 	color:#ccc;
 }
@@ -178,9 +177,8 @@ blockquote
 #navigation a 
 {
 	display:block;
-	padding:16px 15px 19px 15px;	
-	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 12px;
+	padding:16px 15px 19px 15px;
+	font:12px Verdana, Arial, Tahoma;
 	color:#bbb;
 }
 #navigation a:hover 
@@ -273,9 +271,8 @@ blockquote
 {
 	background:url(../images/title-short.jpg) no-repeat;
 	width:200px;
-	padding:8px 0 7px 33px;	
-	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 12px;
+	padding:8px 0 7px 33px;
+	font:12px Arial, Tahoma, Verdana;
 	text-transform:uppercase;
 	color:#6ec2d1;
 }
@@ -340,8 +337,7 @@ blockquote
 	background:url(../images/title-long.jpg) no-repeat;
 	width:507px;
 	padding:8px 0 7px 33px;
-	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 12px;
+	font:12px Arial, Tahoma, Verdana;
 	text-transform:uppercase;
 	color:#6ec2d1;
 }
@@ -353,25 +349,22 @@ blockquote
 {
 	border-bottom:1px solid #333;
 	padding-bottom:2px;
-	margin-bottom:5px;	
-	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 18px;
+	margin-bottom:5px;
+	font:18px arial;
 }
 .left-box-content h4 
 {
 	border-bottom:1px solid #333;
 	padding-bottom:2px;
 	margin-bottom:5px;
-	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 16px;
+	font:16px arial;
 }
 .left-box-content h5 
 {
 	border-bottom:1px solid #333;
 	padding-bottom:2px;
 	margin-bottom:5px;
-	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 14px;
+	font:14px arial;
 }
 .left-box-content ul 
 {
@@ -437,9 +430,8 @@ blockquote
 	width:525px;
 }
 .columns h3 
-{	
-	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 12px;
+{
+	font:12px Arial, Tahoma, Verdana;
 	text-transform:uppercase;
 	margin-bottom:5px;
 }
@@ -464,9 +456,8 @@ blockquote
 #contactform textarea 
 {
 	border:1px solid #333;
-	background:#222;	
-	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 12px;
+	background:#222;
+	font:12px Arial, Tahoma, Verdana;
 	padding:5px;
 	color:#bbb;
 	width:500px;
@@ -475,9 +466,8 @@ blockquote
 #contactform input 
 {
 	width:150px;
-	border:1px solid #333;	
-	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 12px;
+	border:1px solid #333;
+	font:12px Arial, Tahoma, Verdana;
 	padding:5px;
 	background:#222;
 	margin-bottom:10px;
@@ -495,9 +485,7 @@ blockquote
 }
 #contactform .send 
 {
-	
-	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 11px;
+	font:11px Arial, Tahoma, Verdana;
 	padding:7px 0 7px 0;
 	text-align:center;
 	background:url(../images/buttons.jpg) no-repeat;

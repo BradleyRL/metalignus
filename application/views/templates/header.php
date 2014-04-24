@@ -15,7 +15,6 @@
   -->
   <script src="<?php echo base_url();?>scripts/css_browser_selector.js" type="text/javascript"></script>
   <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>css/style.css" />
-  <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
   <script type="text/javascript" src="<?php echo base_url();?>scripts/jquery-1.3.2.min.js"></script>
   <script type="text/javascript" src="<?php echo base_url();?>scripts/jquery.cycle.all.min.js"></script>
   <script type="text/javascript">
