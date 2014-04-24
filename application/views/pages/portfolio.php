@@ -59,7 +59,7 @@ Features:
   <strong>Application Name</strong>: Movie Fanart for Muzei<br />
   <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.moviesfanartformuzei"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a>
   </p>
-  <p>This is a movie fanart extension for Roman Nurik's Muzei live wallpaper application.
+  <p>This is a movie fanart extension for Roman Nurik's Muzei live wallpaper.
 <br />
 <br />
 Features:
