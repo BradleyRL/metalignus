@@ -37,7 +37,7 @@
 		$message->send();
 		echo('success'); //return success callback
 	} catch (InvalidArgumentException $e) {
-		echo('invalid argument '+$e);
+		echo('invalid argument');
 	}
 		
 	}
