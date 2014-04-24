@@ -45,7 +45,8 @@ Features:
 * Tap the image to hear the word in English <br />
 * Review the Alphabet in English & Spanish (Tap the flag to change the Language)<br />
 * Review the numbers from 1-20 in English & Spanish (Tap the flag to change the Language)</p>
-  
+  <br />
+<h3></h3>  
   <br />
   <br />
   <a name="MFM"></a> 
