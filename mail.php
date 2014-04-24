@@ -1,6 +1,6 @@
 <?php
 	require_once 'google/appengine/api/mail/Message.php';
-	use google/appengine/api/mail/Message.php;
+	use google\appengine\api\mail\Message;
 	//declare our assets 
 	
 	$name = stripcslashes($_POST['name']);
