@@ -84,7 +84,7 @@
   <div class="right-box">
   <h3>Latest News</h3>
   <ul>
-  <li><a href="portfolio#LBH">March 13 2003 - My new application is out on Google Play <b>Little Bee Helper</b>. <span class="more-link">More 
+  <li><a href="portfolio#MFM">February 19 2014 - My new application is out on Google Play <b>Movie Fanart for Muzei</b>. <span class="more-link">More 
 &raquo;</span></a></li>
   </ul>
   </div><!-- /right-box -->
