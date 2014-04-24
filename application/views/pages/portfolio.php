@@ -69,8 +69,7 @@ Features:
 * Change the refresh interval.<br />
 * Option to use all available fanart for movies instead of the top rated one.<br />
 * Option to use Movie Posters instead of Backdrops.<br />
-* Powered by themoviedb.org</p>
-  
+* Powered by themoviedb.org  
   <br />
   
   </div><!-- /left-box-content -->
