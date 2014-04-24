@@ -9,8 +9,8 @@
   <strong>Application Name</strong>: Devil Kernel Manager<br />
   <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.devilappsgs">Click here</a>
   </p>
-  <p>This application was made to manage every setting available in the Devil Kernel created by DerTeufel1980 at XDA,
-its only for the Samsung Galaxy S phones, running ICS/JB/KK and rooted.
+  <p>This application was made to manage every setting available in the Devil Kernel created by DerTeufel1980 at XDA
+Its only for the Samsung Galaxy family, running ICS/JB/KK and rooted, but probably works on other kernels too.
 <br />
 <br />
 Useful Links: <br />
