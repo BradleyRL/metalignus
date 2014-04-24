@@ -7,7 +7,7 @@
   <img src="<?php echo base_url();?>images/DKM.png" class="work-image" alt=""/>
   <p>
   <strong>Application Name</strong>: Devil Kernel Manager<br />
-  <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.devilappsgs"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png" class="work-image" alt=""/></a>
+  <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.devilappsgs"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a>
   </p>
   <p>This application was made to manage every setting available in the Devil Kernel created by DerTeufel1980 at XDA
 Its only for the Samsung Galaxy family, running ICS/JB/KK and rooted, but probably works on other kernels too.
@@ -38,7 +38,7 @@ Features:
   <img src="<?php echo base_url();?>images/bee.png" class="work-image" alt=""/>
   <p>
   <strong>Application Name</strong>: Little Bee Helper<br />
-  <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.littlebeehelper"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png" class="work-image" alt=""/></a>
+  <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.littlebeehelper"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a>
   </p>
   <p>This application was made in order to help "CAPI Las Abejitas" Pre-Kinder kids review all the English contents they are learning during 2013.
 <br />
@@ -57,7 +57,7 @@ Features:
   <img src="<?php echo base_url();?>images/MovieFanart.png" class="work-image" alt=""/>
   <p>
   <strong>Application Name</strong>: Movie Fanart for Muzei<br />
-  <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.moviesfanartformuzei"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png" class="work-image" alt=""/></a>
+  <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.moviesfanartformuzei"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a>
   </p>
   <p>This is a movie fanart extension for Roman Nurik's Muzei live wallpaper application.
 <br />
