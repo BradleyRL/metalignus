@@ -10,22 +10,26 @@
   <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.devilappsgs">Click here</a>
   </p>
   <p>This application was made to manage every setting available in the Devil Kernel created by DerTeufel1980 at XDA,
-its only for the Samsung Galaxy S phones, running ICS/JB and rooted.
+its only for the Samsung Galaxy S phones, running ICS/JB/KK and rooted.
 <br />
 <br />
 Useful Links: <br />
-<a href="http://forum.xda-developers.com/showthread.php?t=1700904">Devil Kernel XDA Thread</a>
+<a href="http://forum.xda-developers.com/search.php?searchid=268719919">Devil Kernel XDA Thread</a>
 <br />
-<a href="http://forum.xda-developers.com/showthread.php?t=1723222">Devil Kernel Manager XDA Thread</a>
+<a href="http://forum.xda-developers.com/galaxy-s3/themes-apps/app-devil-kernel-manager-t2558109">Devil Kernel Manager XDA Thread</a>
 <br />
 <br />
 Features:
 <br />
 <br />
 * All the latest settings supported by the Kernel<br />
-* Fast Charge widget for easy access<br />
-* Bluetooth Kill widget<br />
-* Long Press on the option to see a brief description of what it does.</p>
+* Everything sticks after boot.<br />
+* Fast Charge widget for easy access (if available in kernel)<br />
+* Bluetooth Kill widget (if available in kernel)<br />
+* Supports every Devil Kernel (I9000 family, I9300, Note I, Note II, Nexus S)<br />
+* Rewrote the application from scratch. Faster Load Times.<br />
+* New Design, Two Themes available.<br />
+* Log features (pull up to show the full log or hide it completely, option to copy the log content)</p>
   <br />
 <h3></h3>  
 <br />
