@@ -22,14 +22,14 @@ Useful Links: <br />
 Features:
 <br />
 <br />
-* All the latest settings supported by the Kernel<br />
+* All the latest settings supported by the Kernel.<br />
 * Everything sticks after boot.<br />
-* Fast Charge widget for easy access (if available in kernel)<br />
-* Bluetooth Kill widget (if available in kernel)<br />
-* Supports every Devil Kernel (I9000 family, I9300, Note I, Note II, Nexus S)<br />
+* Fast Charge widget for easy access (if available in kernel).<br />
+* Bluetooth Kill widget (if available in kernel).<br />
+* Supports every Devil Kernel (I9000 family, I9300, Note I, Note II, Nexus S).<br />
 * Rewrote the application from scratch. Faster Load Times.<br />
 * New Design, Two Themes available.<br />
-* Log features (pull up to show the full log or hide it completely, option to copy the log content)</p>
+* Log features (pull up to show the full log or hide it completely, option to copy the log content).</p>
   <br />
 <h3></h3>  
 <br />
@@ -46,9 +46,9 @@ Features:
 Features:
 <br />
 <br />
-* Tap the image to hear the word in English <br />
-* Review the Alphabet in English & Spanish (Tap the flag to change the Language)<br />
-* Review the numbers from 1-20 in English & Spanish (Tap the flag to change the Language)</p>
+* Tap the image to hear the word in English.<br />
+* Review the Alphabet in English & Spanish (Tap the flag to change the Language).<br />
+* Review the numbers from 1-20 in English & Spanish (Tap the flag to change the Language).</p>
   <br />
 <h3></h3>  
   <br />
