@@ -7,7 +7,7 @@
 	$emailAddr = stripcslashes($_POST['email']);
 	$comment = stripcslashes($_POST['message']);
 	$subject = stripcslashes($_POST['subject']);	
-        if (($name !="") and ($emailAddr !="") and ($comment !=""))
+    if (($name !="") and ($emailAddr !="") and ($comment !=""))
 	{
 	$contactMessage =  
 		"Message:
@@ -32,7 +32,7 @@
 		$message->send();
 		echo('success'); //return success callback
 	} catch (InvalidArgumentException $e) {
-		echo('error');
+		echo('invalid argument');
 	}
 		
 	}
