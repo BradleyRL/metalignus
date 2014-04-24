@@ -2,11 +2,16 @@
 	require_once 'google/appengine/api/mail/Message.php';
 	use google\appengine\api\mail\Message;
 	//declare our assets 
-	
+	/*
 	$name = stripcslashes($_POST['name']);
 	$emailAddr = stripcslashes($_POST['email']);
 	$comment = stripcslashes($_POST['message']);
 	$subject = stripcslashes($_POST['subject']);	
+	*/
+	$name = "Brad";
+	$emailAddr = "jd6978@gmail.com";
+	$comment = "test";
+	$subject = "test";	
     if (($name !="") and ($emailAddr !="") and ($comment !=""))
 	{
 	$contactMessage =  
