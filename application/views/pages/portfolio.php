@@ -7,7 +7,6 @@
   <img src="<?php echo base_url();?>images/DKM.png" class="work-image" alt=""/>
   <p>
   <strong>Application Name</strong>: Devil Kernel Manager<br />
-  <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.devilappsgs"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a>
   </p>
   <p>This application was made to manage every setting available in the Devil Kernel created by DerTeufel1980 at XDA
 Its only for the Samsung Galaxy family, running ICS/JB/KK and rooted, but probably works on other kernels too.
@@ -31,14 +30,14 @@ Features:
 * New Design, Two Themes available.<br />
 * Log features (pull up to show the full log or hide it completely, option to copy the log content).</p>
   <br />
+<div align="right"><a href="https://play.google.com/store/apps/details?id=com.metalignus.devilappsgs"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a></div>
 <h3></h3>  
 <br />
 <br />
   <a name="LBH"></a> 
   <img src="<?php echo base_url();?>images/bee.png" class="work-image" alt=""/>
   <p>
-  <strong>Application Name</strong>: Little Bee Helper<br />
-  <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.littlebeehelper"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a>
+  <strong>Application Name</strong>: Little Bee Helper<br />  
   </p>
   <p>This application was made in order to help "CAPI Las Abejitas" Pre-Kinder kids review all the English contents they are learning during 2013.
 <br />
@@ -50,14 +49,14 @@ Features:
 * Review the Alphabet in English & Spanish (Tap the flag to change the Language).<br />
 * Review the numbers from 1-20 in English & Spanish (Tap the flag to change the Language).</p>
   <br />
+<div align="right"><a href="https://play.google.com/store/apps/details?id=com.metalignus.littlebeehelper"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a></div>
 <h3></h3>  
   <br />
   <br />
   <a name="MFM"></a> 
   <img src="<?php echo base_url();?>images/MovieFanart.png" class="work-image" alt=""/>
   <p>
-  <strong>Application Name</strong>: Movie Fanart for Muzei<br />
-  <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.moviesfanartformuzei"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a>
+  <strong>Application Name</strong>: Movie Fanart for Muzei<br />  
   </p>
   <p>This is a movie fanart extension for Roman Nurik's Muzei live wallpaper.
 <br />
@@ -70,8 +69,6 @@ Features:
 * Option to use all available fanart for movies instead of the top rated one.<br />
 * Option to use Movie Posters instead of Backdrops.<br />
 * Powered by themoviedb.org  
-  <br />
-  <br />
   <br />
 <div align="right"><a href="https://play.google.com/store/apps/details?id=com.metalignus.moviesfanartformuzei"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a></div>
   </div><!-- /left-box-content -->
