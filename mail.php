@@ -2,16 +2,12 @@
 	require_once 'google/appengine/api/mail/Message.php';
 	use google\appengine\api\mail\Message;
 	//declare our assets 
-	/*
+	
 	$name = stripcslashes($_POST['name']);
 	$emailAddr = stripcslashes($_POST['email']);
 	$comment = stripcslashes($_POST['message']);
 	$subject = stripcslashes($_POST['subject']);	
-	*/
-	$name = "Brad";
-	$emailAddr = "admin@metalignus.com";
-	$comment = "test";
-	$subject = "test";	
+		
     if (($name !="") and ($emailAddr !="") and ($comment !=""))
 	{
 	$contactMessage =  
@@ -26,7 +22,7 @@
 		//send the email 
 		//mail('admin@metalignus.com', $subject, $contactMessage, "From: $emailAddr");
 		$mail_options = [
-			"sender" => $emailAddr,
+			"sender" => "admin@metalignus.com",
 			"to" => "support@metalignus.com",
 			"subject" => $subject,
 			"textBody" => $contactMessage
