@@ -71,7 +71,9 @@ Features:
 * Option to use Movie Posters instead of Backdrops.<br />
 * Powered by themoviedb.org  
   <br />
-  
+  <br />
+  <br />
+<div align="right"><a href="https://play.google.com/store/apps/details?id=com.metalignus.moviesfanartformuzei"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a></div>
   </div><!-- /left-box-content -->
   
   </div><!-- /left-box -->
