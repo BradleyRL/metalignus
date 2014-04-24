@@ -9,7 +9,7 @@
 	$subject = stripcslashes($_POST['subject']);	
 	*/
 	$name = "Brad";
-	$emailAddr = "jd6978@gmail.com";
+	$emailAddr = "admin@metalignus.com";
 	$comment = "test";
 	$subject = "test";	
     if (($name !="") and ($emailAddr !="") and ($comment !=""))
@@ -27,7 +27,7 @@
 		//mail('admin@metalignus.com', $subject, $contactMessage, "From: $emailAddr");
 		$mail_options = [
 			"sender" => $emailAddr,
-			"to" => "admin@metalignus.com",
+			"to" => "support@metalignus.com",
 			"subject" => $subject,
 			"textBody" => $contactMessage
 		];
