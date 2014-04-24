@@ -32,6 +32,12 @@ hopefully Ill put some good apps for everyone to enjoy. Im learning new stuff ev
   <p>A fun way to learn English words for kids.</p>
   </div>
   
+  <div class="box-column">
+  <h3>Movie Fanart for Muzei</h3>
+  <center><a href="portfolio#MFM"><img src="<?php echo base_url();?>images/MovieFanart.png" alt="" /></a></center>
+  <p>This is a movie fanart extension for Roman Nurik's Muzei live wallpaper application.</p>
+  </div>
+  
   </div>
   </div><!-- /left-box-content -->
   

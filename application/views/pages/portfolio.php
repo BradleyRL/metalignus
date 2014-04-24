@@ -47,6 +47,26 @@ Features:
 * Review the numbers from 1-20 in English & Spanish (Tap the flag to change the Language)</p>
   
   <br />
+  <br />
+  <a name="MFM"></a> 
+  <img src="<?php echo base_url();?>images/MovieFanart.png" class="work-image" alt=""/>
+  <p>
+  <strong>Application Name</strong>: Movie Fanart for Muzei<br />
+  <strong>Download this application</strong>: <a href="https://play.google.com/store/apps/details?id=com.metalignus.moviesfanartformuzei">Click here</a>
+  </p>
+  <p>This is a movie fanart extension for Roman Nurik's Muzei live wallpaper application.
+<br />
+<br />
+Features:
+<br />
+<br />
+* 4 different sets: Popular, Top Rated, Now Playing and Upcoming.<br />
+* Change the refresh interval.<br />
+* Option to use all available fanart for movies instead of the top rated one.<br />
+* Option to use Movie Posters instead of Backdrops.<br />
+* Powered by themoviedb.org</p>
+  
+  <br />
   
   </div><!-- /left-box-content -->
   
