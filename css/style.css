@@ -4,7 +4,7 @@ body
 	margin:0;
 	padding:0;	
 	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 18px;
+	font-size: 12px;
 	line-height:18px;
 	color:#ccc;
 }
@@ -180,7 +180,7 @@ blockquote
 	display:block;
 	padding:16px 15px 19px 15px;	
 	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 18px;
+	font-size: 12px;
 	color:#bbb;
 }
 #navigation a:hover 
@@ -275,7 +275,7 @@ blockquote
 	width:200px;
 	padding:8px 0 7px 33px;	
 	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 18px;
+	font-size: 12px;
 	text-transform:uppercase;
 	color:#6ec2d1;
 }
@@ -341,7 +341,7 @@ blockquote
 	width:507px;
 	padding:8px 0 7px 33px;
 	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 18px;
+	font-size: 12px;
 	text-transform:uppercase;
 	color:#6ec2d1;
 }
@@ -355,7 +355,7 @@ blockquote
 	padding-bottom:2px;
 	margin-bottom:5px;	
 	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 24px;
+	font-size: 18px;
 }
 .left-box-content h4 
 {
@@ -363,7 +363,7 @@ blockquote
 	padding-bottom:2px;
 	margin-bottom:5px;
 	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 22px;
+	font-size: 16px;
 }
 .left-box-content h5 
 {
@@ -371,7 +371,7 @@ blockquote
 	padding-bottom:2px;
 	margin-bottom:5px;
 	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 20px;
+	font-size: 14px;
 }
 .left-box-content ul 
 {
@@ -439,7 +439,7 @@ blockquote
 .columns h3 
 {	
 	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 18px;
+	font-size: 12px;
 	text-transform:uppercase;
 	margin-bottom:5px;
 }
@@ -466,7 +466,7 @@ blockquote
 	border:1px solid #333;
 	background:#222;	
 	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 18px;
+	font-size: 12px;
 	padding:5px;
 	color:#bbb;
 	width:500px;
@@ -477,7 +477,7 @@ blockquote
 	width:150px;
 	border:1px solid #333;	
 	font-family: 'Roboto Condensed', 'sans-serif';
-	font-size: 18px;
+	font-size: 12px;
 	padding:5px;
 	background:#222;
 	margin-bottom:10px;
