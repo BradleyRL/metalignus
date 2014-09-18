@@ -15,6 +15,7 @@
   -->
   <script src="<?php echo base_url();?>scripts/css_browser_selector.js" type="text/javascript"></script>
   <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>css/style.css" />
+  <link rel="icon" href="<?php echo base_url(); ?>images/favicon.ico" type="image/x-icon">
   <script type="text/javascript" src="<?php echo base_url();?>scripts/jquery-1.3.2.min.js"></script>
   <script type="text/javascript" src="<?php echo base_url();?>scripts/jquery.cycle.all.min.js"></script>
   <script type="text/javascript">
