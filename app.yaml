@@ -14,9 +14,6 @@ handlers:
   static_files: robots.txt
   upload: robots.txt
 
-- url: /.*
-  script: index.php
-
 - url: /scripts
   static_dir: scripts
 
@@ -28,5 +25,14 @@ handlers:
 
 - url: /mail.php
   script: mail.php
+  
+- url: /
+      script: index.php
+
+- url: /.*
+  script: index.php
+  
+- url: /(.+)
+  script: index.php
 
   
