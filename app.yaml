@@ -27,8 +27,7 @@ handlers:
   script: mail.php
   
 - url: /
-      script: index.php
-
+  script: index.php
 	  
 - url: /.*
   script: index.php
