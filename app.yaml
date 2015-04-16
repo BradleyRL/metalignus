@@ -25,7 +25,10 @@ handlers:
 
 - url: /mail.php
   script: mail.php
-    
+  
+- url: /
+  script: index.php
+	  
 - url: /.*
   script: index.php
   
