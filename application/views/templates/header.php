@@ -57,13 +57,7 @@
  </head>
 
  <body>
-<!--start contactable -->
-<div id="contactable"><!-- contactable html placeholder --></div>
-<script type="text/javascript" src="<?php echo base_url();?>scripts/jquery.validate.pack.js"></script>
-<script type="text/javascript" src="<?php echo base_url();?>scripts/jquery.contactable.js"></script>
-<link rel="stylesheet" href="<?php echo base_url();?>css/contactable.css" type="text/css" />
-<script>$(function(){$('#contactable').contactable({subject: 'feedback for Metalignus'});});</script>
-<!--end contactable -->
+
  
   <div id="container">
   
