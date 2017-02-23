@@ -11,8 +11,12 @@ class Pages extends CI_Controller {
 	}
 	$this->load->helper('url');	
 	//$data['title'] = ucfirst($page); // Capitalize the first letter
-	
-	$this->load->view('templates/header');
+	$simple_pages = array ("contact","policy");
+	if (in_array($page,$simple_pages)) {
+		$this->load->view('templates/header_simple');
+	} else {
+		$this->load->view('templates/header');
+	}
 	$this->load->view('pages/'.$page);
 	$this->load->view('templates/footer');		
 	}

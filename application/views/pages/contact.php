@@ -3,8 +3,9 @@
   <h2>Contact</h2>
   
   <div class="left-box-content">
+  <br />
   <p>
-  <strong>Contact via email:</strong>: support@metalignus.com<br /><br />
+  <strong>Contact via email:</strong>: support@metalignus.com<br />
   </p>
 		Please feel free to get in touch, we value your feedback.
   <p>
