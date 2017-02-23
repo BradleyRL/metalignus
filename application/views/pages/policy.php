@@ -1,6 +1,6 @@
 <div id="left">
    <div class="left-box">
-  <h2>Private Policy</h2>
+  <h2>Privacy Policy</h2>
   
   <div class="left-box-content">
   <p>
