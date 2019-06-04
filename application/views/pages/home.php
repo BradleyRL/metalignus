@@ -6,8 +6,8 @@
   
   <div class="left-box-content">
   
-  <p>Hi, Im a developer starting in the Android world, motivated by the great community on XDA and my desire to learn everything related to Android, 
-hopefully Ill put some good apps for everyone to enjoy. Im learning new stuff everyday and enjoying it.</p>
+  <p>I'm a developer starting in the Android world, motivated by the great community on XDA and my desire to learn everything related to Android, 
+hopefully I'll put some good apps for everyone to enjoy. I'm learning new stuff everyday and enjoying it.</p>
   
   </div><!-- /left-box-content -->
   
