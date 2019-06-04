@@ -30,7 +30,7 @@ Features:
 * New Design, Two Themes available.<br />
 * Log features (pull up to show the full log or hide it completely, option to copy the log content).</p>
   <br />
-<div align="right"><a href="https://play.google.com/store/apps/details?id=com.metalignus.devilappsgs"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a></div>
+<div align="right"><a href="https://play.google.com/store/apps/details?id=com.metalignus.devilappsgs"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"/></a></div>
 <h3></h3>  
 <br />
 <br />
@@ -49,7 +49,7 @@ Features:
 * Review the Alphabet in English & Spanish (Tap the flag to change the Language).<br />
 * Review the numbers from 1-20 in English & Spanish (Tap the flag to change the Language).</p>
   <br />
-<div align="right"><a href="https://play.google.com/store/apps/details?id=com.metalignus.littlebeehelper"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a></div>
+<div align="right"><a href="https://play.google.com/store/apps/details?id=com.metalignus.littlebeehelper"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"/></a></div>
 <h3></h3>  
   <br />
   <br />
@@ -70,7 +70,7 @@ Features:
 * Option to use Movie Posters instead of Backdrops.<br />
 * Powered by themoviedb.org  
   <br />
-<div align="right"><a href="https://play.google.com/store/apps/details?id=com.metalignus.moviesfanartformuzei"><img src="http://www.android.com/images/brand/android_app_on_play_logo_small.png"/></a></div>
+<div align="right"><a href="https://play.google.com/store/apps/details?id=com.metalignus.moviesfanartformuzei"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"/></a></div>
   </div><!-- /left-box-content -->
   
   </div><!-- /left-box -->
