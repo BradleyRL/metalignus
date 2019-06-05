@@ -30,7 +30,7 @@ Features:
 * New Design, Two Themes available.<br />
 * Log features (pull up to show the full log or hide it completely, option to copy the log content).</p>
   <br />
-<div align="right"><a href="https://play.google.com/store/apps/details?id=com.metalignus.devilappsgs"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"/></a></div>
+<div align="right"><a href="https://play.google.com/store/apps/details?id=com.metalignus.devilappsgs"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="128" height="128"/></a></div>
 <h3></h3>  
 <br />
 <br />
